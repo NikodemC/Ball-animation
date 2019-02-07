@@ -48,7 +48,5 @@ public class Ball {
 			dy = dy * (-1);
 			iloscOdbic++;
 		}
-
 	}
-
 }
